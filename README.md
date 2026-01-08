@@ -36,10 +36,3 @@ Currently Learning & Open To
 **Hashnode**
 * [From code to live: The Ultimate Website Launch Playbook](https://mrrsr.hashnode.dev/from-code-to-live-the-ultimate-website-launch-playbook)
 
----
-
-### Dev Community
-
-![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-rsr&hide=contribs&theme=transparent&title_color=964B00&text_color=50C878&show_icons=true)  &nbsp;  &nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-rsr&layout=compact) <br>
-**Note:** Top Languages does not indicate the skill level or anything like that
